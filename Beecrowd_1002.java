@@ -1,3 +1,5 @@
+// 1002 - Área do Círculo
+
 import java.io.IOException;
 import java.util.Scanner;
 
@@ -10,7 +12,8 @@ public class Main {
 		double n = 3.14159;
 		double A = (n * (R * R));
 
-		System.out.println(String.format("A=%.4f", A));
+		System.out.printf("A=%.4f\n", A);
+
     }
  
 }
