@@ -30,7 +30,7 @@ public class Main {
 		double total = total1 + total2;
 	    
 	    	// Saída
-		System.out.println(String.format("VALOR A PAGAR: R$ %.2f", total));
+		System.out.printf("VALOR A PAGAR: R$ %.2f\n", total);
     }
  
 }
