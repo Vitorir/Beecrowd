@@ -27,6 +27,7 @@ public class Main {
 	    	
 	    	// Processamento 2
 		double total2 = numero2 * valor2;
+	    
 		double total = total1 + total2;
 	    
 	    	// Saída
