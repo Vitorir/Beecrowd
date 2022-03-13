@@ -6,9 +6,8 @@ import java.util.Scanner;
 public class Main {
  
     public static void main(String[] args) throws IOException {
-		float N;
 		Scanner s = new Scanner(System.in);
-		N = s.nextFloat();
+		float N = s.nextFloat();
 		
 	    
 		if (N >=0 && N <= 25.0000) {
